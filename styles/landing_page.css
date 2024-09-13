@@ -90,6 +90,7 @@ body
   display: flex;
   gap: 1rem;
   align-items: center;
+  text-decoration: none;
   justify-content: space-between;
   padding: .5rem 1rem;
   font-weight: 600;
